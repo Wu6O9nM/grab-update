@@ -10,10 +10,5 @@
     "versionCode": 0,
     "apkUrl": "",
     "note": ""
-  },
-  "announce": {
-    "id": "update-1.12.2",
-    "title": "新版本 v1.12.2",
-    "body": "弹窗和下载问题已修复，请点击立即下载更新"
   }
 }
