@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "1.12.1",
-    "versionCode": 9,
+    "version": "1.12.2",
+    "versionCode": 10,
     "apkUrl": "https://github.com/Wu6O9nM/grab-update/releases/download/v1.12.0/grab-app.apk",
-    "note": "弹窗增加关闭和不再提示按钮"
+    "note": "弹窗居中显示 | 下载跳浏览器 | 按钮优化"
   },
   "beta": {
     "version": "",
@@ -12,8 +12,8 @@
     "note": ""
   },
   "announce": {
-    "id": "test-1779886421752",
-    "title": "测试功能",
-    "body": "点击我知道了"
+    "id": "update-1.12.2",
+    "title": "新版本 v1.12.2",
+    "body": "弹窗和下载问题已修复，请点击立即下载更新"
   }
 }
