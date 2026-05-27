@@ -1,0 +1,19 @@
+{
+  "stable": {
+    "version": "1.12.0",
+    "versionCode": 8,
+    "apkUrl": "https://github.com/Wu6O9nM/grab-update/releases/download/v1.12.0/grab-app.apk",
+    "note": "公告弹窗 | 应用内下载"
+  },
+  "beta": {
+    "version": "",
+    "versionCode": 0,
+    "apkUrl": "",
+    "note": ""
+  },
+  "announce": {
+    "id": "v111-notify",
+    "title": "111已发明通知功能",
+    "body": "以后出新功能会弹窗通知大家"
+  }
+}
