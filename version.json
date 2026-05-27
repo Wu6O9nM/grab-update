@@ -2,7 +2,7 @@
   "stable": {
     "version": "1.6.0",
     "versionCode": 6,
-    "apkUrl": "http://10.11.213.139:8898/grab-app.apk",
+    "apkUrl": "https://github.com/Wu6O9nM/grab-update/releases/download/v1.6.0/grab-app.apk",
     "note": "时效优先排序 | 版本更新检测 | 测试版/正式版双通道"
   },
   "beta": {
