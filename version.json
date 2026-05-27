@@ -1,9 +1,9 @@
 {
   "stable": {
-    "version": "1.12.0",
-    "versionCode": 8,
+    "version": "1.12.1",
+    "versionCode": 9,
     "apkUrl": "https://github.com/Wu6O9nM/grab-update/releases/download/v1.12.0/grab-app.apk",
-    "note": "公告弹窗 | 应用内下载"
+    "note": "弹窗增加关闭和不再提示按钮"
   },
   "beta": {
     "version": "",
